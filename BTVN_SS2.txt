@@ -1,0 +1,149 @@
+NHIỆM VỤ 1: LẬP WBS 3 GIAI ĐOẠN
+Giai đoạn 1: Chuẩn bị tư liệu và khảo sát số liệu
+
+Việc 1 – Soạn và thực hiện khảo sát
+
+Người phụ trách: Nam
+Nội dung: Soạn 6 câu hỏi trên Google Forms và thu thập ý kiến của 25 sinh viên.
+Hạn hoàn thành: Ngày 1.
+
+Việc 2 – Tổng hợp và trực quan hóa số liệu
+
+Người phụ trách: Mai
+Nội dung: Tổng hợp kết quả khảo sát và vẽ 3 biểu đồ tròn/cột.
+Hạn hoàn thành: Ngày 2.
+Giai đoạn 2: Soạn thảo báo cáo Word và thiết kế Slide
+
+Việc 3 – Viết Mở đầu và Nội dung 1
+
+Người phụ trách: Linh
+Nội dung: Viết phần Mở đầu và trình bày kết quả khảo sát.
+Hạn hoàn thành: Ngày 4.
+
+Việc 4 – Viết Nội dung 2 và Nội dung 3
+
+Người phụ trách: Tuấn
+Nội dung: Phân tích 3 khó khăn khi tự học lập trình, tiếng Anh chuyên ngành và đề xuất 4 giải pháp.
+Hạn hoàn thành: Ngày 4.
+
+Việc 5 – Thiết kế 6 slide đầu
+
+Người phụ trách: Mai
+Nội dung: Thiết kế slide bìa, giới thiệu đề tài và các slide về số liệu khảo sát.
+Hạn hoàn thành: Ngày 5.
+
+Việc 6 – Thiết kế 6 slide sau
+
+Người phụ trách: Nam
+Nội dung: Thiết kế các slide về giải pháp, đúc kết kinh nghiệm và Q&A.
+Hạn hoàn thành: Ngày 5.
+Giai đoạn 3: Rà soát, nghiệm thu và nộp bài
+
+Việc 7 – Rà soát bài Word theo DoD
+
+Người phụ trách: Tuấn
+Nội dung: Kiểm tra nội dung, font chữ, số trang, biểu đồ, chính tả, mục lục và tài liệu tham khảo.
+Hạn hoàn thành: Ngày 6.
+
+Việc 8 – Thuyết trình thử và nộp bài
+
+Người phụ trách: Cả nhóm, Tuấn điều phối.
+Nội dung: Thuyết trình thử trong 10 phút, sửa lỗi cuối cùng, đóng gói và nộp bài.
+Hạn hoàn thành: Ngày 7.
+NHIỆM VỤ 2: CHECKLIST DoD
+A. DoD cho bài báo cáo Word
+
+- Trang bìa có đầy đủ tên trường, tên môn học, tên đề tài, danh sách thành viên và mã số sinh viên.
+
+- Sử dụng Times New Roman hoặc Arial, cỡ chữ 13–14, giãn dòng 1.5.
+
+- Báo cáo có độ dài 8–10 trang nội dung.
+
+- Có ít nhất 2 biểu đồ khảo sát rõ ràng, dễ hiểu.
+
+- Báo cáo đầy đủ 3 nội dung trọng tâm: kết quả khảo sát, 3 khó khăn và 4 giải pháp.
+
+- Đã kiểm tra toàn bộ lỗi chính tả tiếng Việt.
+
+- Có mục lục tự động và số trang chính xác.
+
+- Có tài liệu tham khảo.
+
+- Toàn bộ bài sử dụng font, căn lề, cách trình bày thống nhất, không còn tình trạng 3 font khác nhau.
+
+→ Khi tất cả tiêu chí cần thiết đều được đánh dấu [x], bài Word mới được coi là Done.
+
+B. DoD cho Slide PowerPoint
+
+- Có đúng 12 slide nội dung chính và bố cục rõ ràng.
+
+- Cỡ chữ nội dung từ 24pt trở lên, có thể đọc được từ cuối lớp.
+
+-Màu chữ và màu nền có độ tương phản rõ ràng.
+
+- Có biểu đồ khảo sát trực quan.
+
+-Hình ảnh minh họa rõ nét, phù hợp nội dung và có nguồn khi cần.
+
+-Trình bày đầy đủ 4 giải pháp nâng cao hiệu quả tự học và cân bằng thời gian chơi game.
+
+- Có slide tóm tắt/đúc kết các giải pháp chính.
+
+- Có slide Cảm ơn và Q&A.
+
+- Toàn bộ slide có font chữ, màu sắc và bố cục thống nhất.
+
+- Đã chạy thử PowerPoint và không còn lỗi chữ, hình ảnh, biểu đồ hoặc bố cục.
+
+NHIỆM VỤ 3: KANBAN VÀ GIẢI QUYẾT BẪY ÔM VIỆC
+1. Kanban hiện tại của nhóm
+Cần làm – To Do
+Việc 2: Tổng hợp kết quả khảo sát và vẽ 3 biểu đồ – Mai.
+Việc 4: Viết Nội dung 2 và Nội dung 3 – Tuấn.
+Việc 6: Thiết kế 6 slide sau – Nam.
+Việc 7: Rà soát bài Word theo DoD – Tuấn.
+Việc 8: Thuyết trình thử và nộp bài – Cả nhóm.
+Đang làm – In Progress
+Việc 1: Soạn Google Forms và thu thập 25 phản hồi – Nam.
+Việc 3: Viết Mở đầu và Nội dung 1 – Nam.
+Việc 5: Thiết kế 6 slide đầu – Nam.
+Đã xong – Done
+Chưa có việc nào hoàn thành hoàn toàn sau 3 ngày.
+2. Phân tích bẫy ôm việc của Nam
+
+Nam đang cùng lúc nhận 3 việc: Việc 1, Việc 3 và Việc 5.
+
+Điều này gây ra tình trạng WIP quá cao. Nam phải chuyển đổi liên tục giữa việc làm khảo sát, viết Word và thiết kế slide nên không tập trung hoàn thành được việc nào.
+
+Hậu quả là:
+
+Việc 1 chưa xong nên Mai không có số liệu để làm Việc 2.
+Việc 3 chưa hoàn thành nên nội dung báo cáo bị thiếu, Linh và các thành viên khác không thể phối hợp hiệu quả.
+Việc 5 mới chỉ có trang trắng nên phần slide cũng bị đình trệ.
+Nam trở thành nút thắt cổ chai (bottleneck) của cả nhóm.
+Mặc dù có tới 3 việc ở trạng thái “Đang làm”, nhóm lại không có việc nào chuyển sang “Đã xong”.
+3. Áp dụng nguyên tắc WIP
+
+Nhóm nên quy định:
+
+Mỗi thành viên chỉ được có tối đa 1 việc ở trạng thái In Progress. Hoàn thành việc hiện tại mới được nhận việc tiếp theo.
+
+Với Nam, cách xử lý cụ thể là:
+
+Bước 1: Giữ Việc 1 ở trạng thái In Progress vì khảo sát là công việc đầu vào quan trọng.
+
+Bước 2: Chuyển Việc 3 và Việc 5 từ In Progress về To Do.
+
+Bước 3: Nam tập trung hoàn thành Việc 1.
+
+Bước 4: Khi Việc 1 chuyển sang Done, Mai có thể tiếp tục Việc 2.
+
+Bước 5: Sau khi có số liệu và nội dung ổn định, nhóm mới tiếp tục các công việc phụ thuộc phía sau.
+
+Kết luận
+WBS giúp nhóm xác định cần làm gì và làm theo thứ tự nào.
+DoD giúp xác định làm đến mức nào mới được coi là hoàn thành.
+Kanban giúp nhóm nhìn thấy công việc đang ở đâu.
+WIP giúp ngăn tình trạng một người ôm quá nhiều việc nhưng không hoàn thành việc nào.
+
+Trong tình huống này, giải pháp quan trọng nhất là giảm WIP của Nam từ 3 việc xuống còn 1 việc, để công việc được hoàn thành lần lượt và không tiếp tục làm tắc nghẽn tiến độ của cả nhóm.
